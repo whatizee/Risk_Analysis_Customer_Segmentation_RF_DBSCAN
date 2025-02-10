@@ -1,5 +1,5 @@
 
-```markdown
+
 # Motor Insurance Risk Analysis using Random Forest and DBSCAN
 
 This project focuses on analyzing motor insurance data to predict customer risk levels using a **Random Forest Classifier** and segment customers using **DBSCAN**. The goal is to improve risk assessment accuracy and identify high-risk customer segments for better decision-making.
