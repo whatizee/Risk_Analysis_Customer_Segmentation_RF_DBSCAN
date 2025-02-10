@@ -125,23 +125,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Author
-[Your Name]  
-[Your Email]  
-[GitHub Profile]
+Jibin Sebastian
 
 ---
 
 ```
 
----
 
-### **Key Points in the README**
-1. **Project Overview**: Explains the purpose and goals of the project.
-2. **Dataset**: Describes the dataset and its features.
-3. **Implementation**: Provides details about the Random Forest Classifier and DBSCAN.
-4. **Results**: Summarizes the outcomes of the analysis.
-5. **Dependencies**: Lists the required libraries.
-6. **How to Run**: Provides step-by-step instructions for running the code.
-7. **License**: Specifies the license for the project.
-
-This `README.md` file is comprehensive and user-friendly, making it easy for others to understand and use your project.
